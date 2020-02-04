@@ -1,0 +1,10 @@
+ Volume in drive F is Sush
+ Volume Serial Number is 3846-CCF5
+
+ Directory of F:\myproject
+
+01/28/2020  06:53 PM    <DIR>          .
+01/28/2020  06:53 PM    <DIR>          ..
+01/28/2020  06:53 PM                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  316,363,968,512 bytes free
