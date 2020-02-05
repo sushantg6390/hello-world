@@ -1,3 +1,0 @@
-java -versions
-git --version
-date /t
