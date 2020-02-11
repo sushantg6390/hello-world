@@ -1,0 +1,12 @@
+ Volume in drive F is Sush
+ Volume Serial Number is 3846-CCF5
+
+ Directory of F:\myproject
+
+02/11/2020  07:55 PM    <DIR>          .
+02/11/2020  07:55 PM    <DIR>          ..
+02/05/2020  07:37 PM               426 HelloWorld.class
+02/05/2020  07:29 PM               236 HelloWorld.java
+02/11/2020  07:55 PM                 0 yogita-file1.txt
+               3 File(s)            662 bytes
+               2 Dir(s)  316,283,056,128 bytes free
